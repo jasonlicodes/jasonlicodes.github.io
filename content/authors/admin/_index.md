@@ -39,6 +39,8 @@ profiles:
     url: https://github.com/gcushen
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/jason-li-43786b169/
+  - icon: custom/neurotree
+    url: https://neurotree.org/neurotree/tree.php?pid=930647
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=en&user=pMobd7YAAAAJ&view_op=list_works&sortby=pubdate
 
@@ -48,7 +50,7 @@ interests:
   - Artificial Intelligence
 
 education:
-  - area: B.S. Brain & Cognitive Sciences \n B.S. Artificial Intelligence & Decision-making
+  - area: B.S. Brain & Cognitive Sciences; B.S. Artificial Intelligence & Decision-making
     institution: Massachusetts Institute of Technology
     date_start: 2020-09-01
     date_end: 2024-05-31
