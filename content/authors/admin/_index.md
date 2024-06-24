@@ -36,7 +36,7 @@ profiles:
     url: 'mailto:jol2106@cumc.columbia.edu'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/jasonlicodes
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/jason-li-43786b169/
   - icon: custom/neurotree
