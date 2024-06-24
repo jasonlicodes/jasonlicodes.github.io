@@ -30,12 +30,14 @@ marketing:
 header:
   navbar:
     enable: true
+    align: "left"
     blox: "navbar"
+    highlight_active_link: true
     fixed_to_top: true
-    show_search: true
+    show_search: false
     show_theme_chooser: true
     logo:
-      text: "Jason Li"
+      text: "      Jason Li"
 
 # Site footer
 footer:
