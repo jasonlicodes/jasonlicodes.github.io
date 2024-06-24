@@ -33,20 +33,14 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'jol2106@cumc.columbia.edu'
+    url: 'mailto:jol2106@cumc.columbia.edu'
     label: E-mail Me
-  # - icon: brands/x
-  #   url: https://twitter.com/GetResearchDev
-  # - icon: brands/instagram
-  #   url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/jason-li-43786b169/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  # - icon: academicons/orcid
-  #   url: https://orcid.org/
+    url: https://scholar.google.com/citations?hl=en&user=pMobd7YAAAAJ&view_op=list_works&sortby=pubdate
 
 interests:
   - Neural Circuit Modeling
@@ -54,15 +48,13 @@ interests:
   - Artificial Intelligence
 
 education:
-  - area: B.S. Brain & Cognitive Sciences, B.S. Artificial Intelligence & Decision-making
+  - area: B.S. Brain & Cognitive Sciences \n B.S. Artificial Intelligence & Decision-making
     institution: Massachusetts Institute of Technology
     date_start: 2020-09-01
     date_end: 2024-05-31
-    summary: |
-      GPA: 5.0/5.0
 
 ---
 
 ## Biography
 
-Welcome! I am a first-year student in the Neurobiology & Behavior PhD program at the Zuckerman Mind Brain Behavior Institute at Columbia University, affiliated with the Center for Theoretical Neuroscience. I am fascinated by the neurobiological basis of complex behavior and excited by the potential of computation to help us better understand the brain. To this end, in my research, I am interested in building computational models that bridge neural activity and behavior, especially in small model systems. 
+Welcome! I am a first-year student in the Neurobiology & Behavior PhD program at the Zuckerman Mind Brain Behavior Institute at Columbia University, affiliated with the Center for Theoretical Neuroscience. I'm fascinated by the neurobiological basis of complex behavior and excited by the potential of computation to help us better understand the brain. To this end, in my research, I'm interested in building computational models that bridge neural activity and behavior, especially in small model systems. I'm also hoping to apply insights from neuroscience towards developing more robust and flexible artificial intelligence. 
