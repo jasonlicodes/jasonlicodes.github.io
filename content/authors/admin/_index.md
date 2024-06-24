@@ -32,7 +32,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
+  - icon: hero/envelope
     url: 'mailto:jol2106@cumc.columbia.edu'
     label: E-mail Me
   - icon: brands/github
@@ -60,3 +60,5 @@ education:
 ## Biography
 
 Welcome! I am a first-year student in the Neurobiology & Behavior PhD program at the Zuckerman Mind Brain Behavior Institute at Columbia University, affiliated with the Center for Theoretical Neuroscience. I'm fascinated by the neurobiological basis of complex behavior and excited by the potential of computation to help us better understand the brain. To this end, in my research, I'm interested in building computational models that bridge neural activity and behavior, especially in small model systems. I'm also hoping to apply insights from neuroscience towards developing more robust and flexible artificial intelligence. 
+
+In undergrad, I studied brain & cognitive sciences and artificial intelligence at MIT. I conducted research in neuroscience in the Jazayeri Lab and MetaConscious Group, and research in urban science with the Future Urban Mobility group.
