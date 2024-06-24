@@ -24,6 +24,8 @@ role: PhD student, Neurobiology & Behavior
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
+  - name: Center for Theoretical Neuroscience
+    url: https://ctn.zuckermaninstitute.columbia.edu/about
   - name: Columbia University
     url: 
 
