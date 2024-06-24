@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD student, Neurobiology & Behavior
+role: PhD student, Neurobiology & Behavior 🧠
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
