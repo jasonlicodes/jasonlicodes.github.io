@@ -25,7 +25,7 @@ role: PhD student, Neurobiology & Behavior
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Center for Theoretical Neuroscience
-    url: https://ctn.zuckermaninstitute.columbia.edu/about
+    url: 
   - name: Columbia University
     url: 
 
@@ -59,6 +59,6 @@ education:
 
 ## Biography
 
-Welcome! I am a first-year student in the Neurobiology & Behavior PhD program at the Zuckerman Mind Brain Behavior Institute at Columbia University, affiliated with the Center for Theoretical Neuroscience. I'm fascinated by the neurobiological basis of complex behavior and excited by the potential of computation to help us better understand the brain. To this end, in my research, I'm interested in building **computational models that bridge neural activity and behavior**, especially in small model systems. I'm also hoping to apply insights from neuroscience towards developing **more robust and flexible artificial intelligence**. 
+Welcome! I am a first-year student in the Neurobiology & Behavior PhD program at the Zuckerman Mind Brain Behavior Institute at Columbia University, affiliated with the [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/). I'm fascinated by the neurobiological basis of complex behavior and excited by the potential of computation to help us better understand the brain. To this end, in my research, I'm interested in building **computational models that bridge neural activity and behavior**, especially in small model systems. I'm also hoping to apply insights from neuroscience towards developing **more robust and flexible artificial intelligence**. 
 
 In undergrad, I studied brain & cognitive sciences and artificial intelligence at MIT. I conducted research in neuroscience in the [JazLab](https://jazlab.org/) and [MetaConscious Group](https://www.metaconscious.org/), and research in urban science with the Future Urban Mobility group.
