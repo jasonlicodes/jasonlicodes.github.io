@@ -55,7 +55,7 @@ sections:
           - publication
         exclude_featured: false
     design:
-      spacing: 
+      # spacing: 
         # padding: ['20px', '20px', '200px', '20px']
       view: citation
 
