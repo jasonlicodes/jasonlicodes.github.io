@@ -53,9 +53,9 @@ links:
 url_pdf: 'https://proceedings.mlr.press/v210/li23a/li23a.pdf'
 url_code: 'https://github.com/jazlab/Maze_Task_2022'
 url_dataset: ''
-url_poster: 'https://jasonlicodes.github.io/content/publication/gmml2022/GMML_poster.pdf'
+url_poster: 'https://jasonlicodes.github.io/publication/gmml2022/GMML_poster.pdf'
 url_project: ''
-url_slides: 'https://jasonlicodes.github.io/content/publication/gmml2022/GMML_presentation.pdf'
+url_slides: 'https://jasonlicodes.github.io/publication/gmml2022/GMML_presentation.pdf'
 url_source: ''
 url_video: ''
 
