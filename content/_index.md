@@ -20,8 +20,8 @@ sections:
         icon: hero/document
         url: uploads/CV.pdf
     design:
-      spacing: 
-        padding: ['20px', '20px', '20px', '20px']
+      # spacing: 
+      #   padding: ['20px', '20px', '20px', '20px']
       # css_class: light
       # background:
       #   color: black
@@ -58,5 +58,21 @@ sections:
       spacing: 
         padding: ['50px', '20px', '50px', '20px']
       view: citation
+
+  - block: collection
+    id: projects
+    content:
+      title: My Projects
+      text: ""
+      filters:
+        folders:
+          - project
+        exclude_featured: false
+    design:
+      spacing: 
+        padding: ['50px', '20px', '50px', '20px']
+      view: article-grid #compact
+      fill_image: false
+      columns: 3
 
 ---
