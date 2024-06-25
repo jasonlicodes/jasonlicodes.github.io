@@ -19,8 +19,10 @@ sections:
         text: View CV
         icon: hero/document
         url: uploads/CV.pdf
-    # design:
-    #   css_class: light
+    design:
+      spacing: 
+        padding: ['20px', '20px', '20px', '20px']
+      # css_class: light
       # background:
       #   color: black
       #   image:
