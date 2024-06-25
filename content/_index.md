@@ -72,7 +72,7 @@ sections:
       # spacing: 
       #   padding: ['50px', '20px', '50px', '20px']
       view: compact #article-grid
-      fill_image: false
-      columns: 3
+      # fill_image: false
+      # columns: 3
 
 ---
