@@ -66,7 +66,7 @@ sections:
       text: ""
       filters:
         folders:
-          - project
+          # - project
         exclude_featured: false
     design:
       # spacing: 
