@@ -19,32 +19,7 @@ sections:
         text: View CV
         icon: hero/document
         url: uploads/CV.pdf
-    design:
-      # spacing: 
-      #   padding: ['20px', '20px', '20px', '20px']
-      # css_class: light
-      # background:
-      #   color: black
-      #   image:
-      #     # Add your image background to `assets/media/`.
-      #     filename: stacked-peaks.svg
-      #     filters:
-      #       brightness: 1.0
-      #     size: cover
-      #     position: center
-      #     parallax: false
-  # - block: markdown
-  #   content:
-  #     title: '📚 My Research'
-  #     subtitle: ''
-  #     text: |-
-  #       Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
 
-  #       I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-  #       Please reach out to collaborate 😃
-  #   design:
-  #     columns: '1'
   - block: collection
     id: papers
     content:
@@ -58,21 +33,5 @@ sections:
       spacing: 
         padding: ['50px', '20px', '50px', '20px']
       view: citation
-
-  # - block: collection
-  #   id: projects
-  #   content:
-  #     title: My Projects
-  #     text: ""
-  #     filters:
-  #       folders:
-  #         # - project
-  #       exclude_featured: false
-  #   design:
-  #     # spacing: 
-  #     #   padding: ['50px', '20px', '50px', '20px']
-  #     view: compact #article-grid
-  #     # fill_image: false
-  #     # columns: 3
 
 ---
