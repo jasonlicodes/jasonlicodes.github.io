@@ -59,20 +59,20 @@ sections:
         padding: ['50px', '20px', '50px', '20px']
       view: citation
 
-  - block: collection
-    id: projects
-    content:
-      title: My Projects
-      text: ""
-      filters:
-        folders:
-          # - project
-        exclude_featured: false
-    design:
-      # spacing: 
-      #   padding: ['50px', '20px', '50px', '20px']
-      view: compact #article-grid
-      # fill_image: false
-      # columns: 3
+  # - block: collection
+  #   id: projects
+  #   content:
+  #     title: My Projects
+  #     text: ""
+  #     filters:
+  #       folders:
+  #         # - project
+  #       exclude_featured: false
+  #   design:
+  #     # spacing: 
+  #     #   padding: ['50px', '20px', '50px', '20px']
+  #     view: compact #article-grid
+  #     # fill_image: false
+  #     # columns: 3
 
 ---
