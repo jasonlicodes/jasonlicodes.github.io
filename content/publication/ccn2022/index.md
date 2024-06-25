@@ -34,12 +34,9 @@ abstract: From smoothly pursuing moving objects to rapidly shifting gazes during
 summary: 
 
 tags:
-  - Saccade
-  - Recurrent Network
-  - Maze
-  - Psychophysics
-  - Fovea
   - Mental Simulation
+  - Saccades
+  - Neural Network
 
 # Display this page in the Featured widget?
 featured: false
