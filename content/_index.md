@@ -17,6 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: View CV
+        icon: hero/document
         url: uploads/cv.pdf
     design:
       css_class: light
