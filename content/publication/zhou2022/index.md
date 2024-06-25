@@ -38,7 +38,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://jasonlicodes.github.io/uploads/zhou2022.pdf'
+url_pdf: 'https://jasonlicodes.github.io/content/publication/zhou2022/zhou2022.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
