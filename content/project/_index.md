@@ -3,7 +3,7 @@ title: Projects
 cms_exclude: true
 
 # View.
-view: compact
+view: card
 
 # Optional header image (relative to `static/media/` folder).
 banner:
