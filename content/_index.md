@@ -34,4 +34,18 @@ sections:
         padding: ['50px', '20px', '50px', '20px']
       view: citation
 
+  - block: collection
+    id: projects
+    content:
+      title: My Projects
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      spacing: 
+        padding: ['50px', '20px', '50px', '20px']
+      view: citation
+
 ---
