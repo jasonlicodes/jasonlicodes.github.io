@@ -18,9 +18,9 @@ sections:
       button:
         text: View CV
         icon: hero/document
-        url: uploads/cv.pdf
-    design:
-      css_class: light
+        url: uploads/CV.pdf
+    # design:
+    #   css_class: light
       # background:
       #   color: black
       #   image:
