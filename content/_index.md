@@ -41,11 +41,11 @@ sections:
       text: ""
       filters:
         folders:
-          - publication
+          - project
         exclude_featured: false
     design:
       spacing: 
         padding: ['50px', '20px', '50px', '20px']
-      view: citation
+      view: card
 
 ---
