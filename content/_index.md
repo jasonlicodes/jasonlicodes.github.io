@@ -48,15 +48,15 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Publications
+      title: My Papers
       text: ""
       filters:
         folders:
           - publication
         exclude_featured: false
     design:
-      # spacing: 
-        # padding: ['20px', '20px', '200px', '20px']
+      spacing: 
+        padding: ['50px', '20px', '50px', '20px']
       view: citation
 
 ---

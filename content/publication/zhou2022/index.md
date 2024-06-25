@@ -27,7 +27,12 @@ abstract: Agent-based models (ABMs) of urban systems have grown in popularity an
 summary: 
 
 tags:
-- 
+- Synthetic population 
+- Built environment 
+- Agent-based microsimulation 
+- Bayesian Network 
+- Land use-transport interaction (LUTI) model
+
 featured: false
 
 # links:
