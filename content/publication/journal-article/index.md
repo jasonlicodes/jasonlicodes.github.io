@@ -1,13 +1,13 @@
 ---
 title: "An example journal article"
 authors:
+- Meng Zhou
 - admin
-- Robert Ford
+- Rounaq Basu
+- Joseph Ferreira
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2022-01-01T00:00:00Z"
+doi: "10.1016/j.compenvurbsys.2021.101717"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -18,36 +18,36 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Computers, Environment and Urban Systems, 91*, 101717"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Agent-based models (ABMs) of urban systems have grown in popularity and complexity due to the widespread availability of high-performance computing resources and large data storage capabilities. Credible synthetic populations are crucial for the application of ABMs to understand urban phenomena. Although several (agent) population synthesis methods have been suggested over the years, the spatial dimension of synthetic populations has not received as much attention. This study addresses this myopic treatment of synthetic populations by creating two distinct components – agents and the built environment – that are integrated to form a ‘full’ spatially-detailed synthetic population. To generate agents, we used multiple Bayesian Networks (BN) to probabilistically draw pools from the microsample, followed by a Generalized Raking (GR) adjustment to match marginal controls. Using various measures, we demonstrate that our BN + GR framework outperforms more commonly used synthesis methods in both capturing the heterogeneity in the microsample and matching marginal controls. We also highlight the importance of accounting for heterogeneity by using separate type-specific models based on an explicitly defined household typology. For built environment synthesis, we generated various spatial entities such as buildings, housing units, establishments, and jobs at distinct spatial locations by fusing data from various spatial datasets. Their spatial distributions are found to effectively approximate the ‘real’ built environment in our study area. Our proposed framework can be used to generate a ‘full’ synthetic population for use in ABMs with more spatio-demographic heterogeneity than can otherwise be estimated using traditional methods.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
-- Source Themes
+- 
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://doi.org/10.1016/j.compenvurbsys.2021.101717'
 url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption:
   focal_point: ""
-  preview_only: false
+  preview_only:
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -61,7 +61,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides:
 ---
 
 {{% callout note %}}
