@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Creating spatially-detailed heterogeneous synthetic populations for agent-based microsimulation"
 authors:
 - Meng Zhou
 - admin
@@ -7,7 +7,7 @@ authors:
 - Joseph Ferreira
 author_notes:
 date: "2022-01-01T00:00:00Z"
-doi: "10.1016/j.compenvurbsys.2021.101717"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://jasonlicodes.github.io/uploads/zhou2022.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
