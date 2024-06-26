@@ -33,7 +33,7 @@ sections:
       # background:
       #   color: '#FAFAFA'
       spacing: 
-        padding: ['50px', '20px', '50px', '20px']
+        padding: ['70px', '20px', '70px', '20px']
       view: citation
 
   - block: collection
@@ -47,7 +47,7 @@ sections:
         exclude_featured: false
     design:
       spacing: 
-        padding: ['50px', '20px', '50px', '20px']
-      view: card
+        padding: ['70px', '20px', '70px', '20px']
+      view: article-grid
 
 ---
