@@ -49,5 +49,7 @@ sections:
       spacing: 
         padding: ['70px', '20px', '70px', '20px']
       view: article-grid
+      fill_image: false
+      columns: 3
 
 ---
