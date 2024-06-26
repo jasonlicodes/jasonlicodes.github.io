@@ -30,8 +30,8 @@ sections:
           - publication
         exclude_featured: false
     design:
-      background:
-        color: '#FAFAFA'
+      # background:
+      #   color: '#FAFAFA'
       spacing: 
         padding: ['50px', '20px', '50px', '20px']
       view: citation
