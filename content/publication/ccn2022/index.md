@@ -43,7 +43,7 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: NeurIPS GMML Paper
+- name: \@ NeurIPS GMML
   url: https://jasonlicodes.github.io/publication/gmml2022
 
 url_pdf: 'https://2022.ccneuro.org/proceedings/0000466.pdf'

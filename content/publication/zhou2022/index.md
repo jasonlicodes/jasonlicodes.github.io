@@ -35,16 +35,17 @@ tags:
 
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
+links:
+- name: "Link"
+  url: https://doi.org/10.1016/j.compenvurbsys.2021.101717
+
 url_pdf: 'https://jasonlicodes.github.io/publication/zhou2022/zhou2022.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://doi.org/10.1016/j.compenvurbsys.2021.101717'
+url_source: ''
 url_video: ''
 
 # Featured image
