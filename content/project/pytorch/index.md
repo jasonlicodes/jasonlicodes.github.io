@@ -1,13 +1,11 @@
 ---
-title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+title: Creating spatially-detailed heterogeneous synthetic populations for agent-based microsimulation
+date: 2021-10-13
+external_link: https://jasonlicodes.github.io/publication/zhou2022/
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Urban Science
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+Creating spatially-detailed heterogeneous synthetic populations for agent-based microsimulation
 
 <!--more-->
