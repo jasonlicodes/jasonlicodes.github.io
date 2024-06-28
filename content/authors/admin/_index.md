@@ -38,7 +38,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/jasonlicodes
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/jason-li-43786b169/
+    url: https://www.linkedin.com/in/jason-o-li/
   - icon: custom/neurotree
     url: https://neurotree.org/neurotree/tree.php?pid=930647
   - icon: academicons/google-scholar
